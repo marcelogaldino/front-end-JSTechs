@@ -70,3 +70,16 @@
     opacity: 0.5;
 }
 
+.apps {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.apps a img {
+    width: 200px;
+}
+
+.apps p span {
+    color: #5137F2;
+    font-weight: bold;
+}
